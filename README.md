@@ -60,4 +60,5 @@ This is about my skills
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
