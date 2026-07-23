@@ -27,6 +27,7 @@ This is about my skills
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0166-fraction-to-recurring-decimal) |
+| [0172-factorial-trailing-zeroes](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0172-factorial-trailing-zeroes) |
 ## String
 |  |
 | ------- |
