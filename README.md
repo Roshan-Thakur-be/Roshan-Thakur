@@ -65,6 +65,7 @@ This is about my skills
 | [0177-nth-highest-salary](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0180-consecutive-numbers) |
+| [0184-department-highest-salary](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0184-department-highest-salary) |
 ## Greedy
 |  |
 | ------- |
