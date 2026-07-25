@@ -15,6 +15,7 @@ This is about my skills
 | ------- |
 | [0001-two-sum](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0001-two-sum) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0187-repeated-dna-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ This is about my skills
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0187-repeated-dna-sequences) |
 ## Stack
 |  |
 | ------- |
@@ -74,4 +76,20 @@ This is about my skills
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0179-largest-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
