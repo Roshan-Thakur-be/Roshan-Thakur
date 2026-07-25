@@ -10,6 +10,7 @@ This is about my skills
 | [0162-find-peak-element](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,11 +26,13 @@ This is about my skills
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
