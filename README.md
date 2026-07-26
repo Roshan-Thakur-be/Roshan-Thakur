@@ -12,6 +12,7 @@ This is about my skills
 | [0179-largest-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,8 +107,18 @@ This is about my skills
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
