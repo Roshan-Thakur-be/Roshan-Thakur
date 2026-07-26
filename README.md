@@ -48,6 +48,7 @@ This is about my skills
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0199-binary-tree-right-side-view) |
 ## Design
 |  |
 | ------- |
@@ -60,6 +61,7 @@ This is about my skills
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0199-binary-tree-right-side-view) |
 ## Iterator
 |  |
 | ------- |
@@ -100,4 +102,12 @@ This is about my skills
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0198-house-robber) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
