@@ -13,6 +13,7 @@ This is about my skills
 | [0189-rotate-array](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ This is about my skills
 | [0172-factorial-trailing-zeroes](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -133,4 +135,12 @@ This is about my skills
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0203-remove-linked-list-elements) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
