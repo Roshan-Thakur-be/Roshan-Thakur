@@ -21,6 +21,7 @@ This is about my skills
 | [0166-fraction-to-recurring-decimal](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0205-isomorphic-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This is about my skills
 | [0166-fraction-to-recurring-decimal](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
