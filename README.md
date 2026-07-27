@@ -125,4 +125,12 @@ This is about my skills
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0200-number-of-islands) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
