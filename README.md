@@ -87,6 +87,7 @@ This is about my skills
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0187-repeated-dna-sequences) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Sliding Window
 |  |
 | ------- |
