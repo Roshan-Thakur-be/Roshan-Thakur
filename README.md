@@ -19,6 +19,7 @@ This is about my skills
 | [0001-two-sum](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0001-two-sum) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,12 +30,14 @@ This is about my skills
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
