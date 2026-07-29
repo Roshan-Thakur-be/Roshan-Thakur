@@ -50,6 +50,7 @@ This is about my skills
 | [0179-largest-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0205-isomorphic-strings) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +64,7 @@ This is about my skills
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -121,6 +123,7 @@ This is about my skills
 | [0200-number-of-islands](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,4 +171,8 @@ This is about my skills
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0209-minimum-size-subarray-sum) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
