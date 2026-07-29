@@ -15,6 +15,7 @@ This is about my skills
 | [0200-number-of-islands](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0213-house-robber-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ This is about my skills
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0213-house-robber-ii) |
 ## Depth-First Search
 |  |
 | ------- |
