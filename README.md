@@ -17,6 +17,7 @@ This is about my skills
 | [0209-minimum-size-subarray-sum](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ This is about my skills
 | [0187-repeated-dna-sequences](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +98,7 @@ This is about my skills
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
