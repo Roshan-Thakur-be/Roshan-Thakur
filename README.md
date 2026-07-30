@@ -19,6 +19,7 @@ This is about my skills
 | [0216-combination-sum-iii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0221-maximal-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@ This is about my skills
 | ------- |
 | [0198-house-robber](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0221-maximal-square) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -148,6 +150,7 @@ This is about my skills
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0221-maximal-square) |
 ## Linked List
 |  |
 | ------- |
