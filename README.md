@@ -50,6 +50,7 @@ This is about my skills
 | [0189-rotate-array](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0223-rectangle-area) |
 ## String
 |  |
 | ------- |
@@ -191,4 +192,8 @@ This is about my skills
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0216-combination-sum-iii) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
