@@ -51,6 +51,7 @@ This is about my skills
 | [0202-happy-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0223-rectangle-area) |
+| [0227-basic-calculator-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0227-basic-calculator-ii) |
 ## String
 |  |
 | ------- |
@@ -59,11 +60,13 @@ This is about my skills
 | [0187-repeated-dna-sequences](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0227-basic-calculator-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0227-basic-calculator-ii) |
 ## Stack
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0227-basic-calculator-ii) |
 ## Tree
 |  |
 | ------- |
