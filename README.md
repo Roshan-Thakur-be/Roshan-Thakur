@@ -63,6 +63,7 @@ This is about my skills
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0225-implement-stack-using-queues) |
 ## Tree
 |  |
 | ------- |
@@ -73,6 +74,7 @@ This is about my skills
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0225-implement-stack-using-queues) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -196,4 +198,8 @@ This is about my skills
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0223-rectangle-area) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
