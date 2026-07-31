@@ -69,6 +69,7 @@ This is about my skills
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0226-invert-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -84,6 +85,7 @@ This is about my skills
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0226-invert-binary-tree) |
 ## Iterator
 |  |
 | ------- |
@@ -138,6 +140,7 @@ This is about my skills
 | [0207-course-schedule](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,6 +148,7 @@ This is about my skills
 | [0200-number-of-islands](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0226-invert-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
