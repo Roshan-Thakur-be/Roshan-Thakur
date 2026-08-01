@@ -76,6 +76,7 @@ This is about my skills
 | [0173-binary-search-tree-iterator](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Design
 |  |
 | ------- |
@@ -86,12 +87,14 @@ This is about my skills
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Iterator
 |  |
 | ------- |
@@ -148,6 +151,7 @@ This is about my skills
 | [0210-course-schedule-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
