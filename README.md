@@ -21,6 +21,7 @@ This is about my skills
 | [0219-contains-duplicate-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ This is about my skills
 | [0205-isomorphic-strings](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +113,7 @@ This is about my skills
 | ------- |
 | [0179-largest-number](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0229-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -210,4 +213,8 @@ This is about my skills
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0225-implement-stack-using-queues) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
