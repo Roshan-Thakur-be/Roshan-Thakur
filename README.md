@@ -20,6 +20,7 @@ This is about my skills
 | [0217-contains-duplicate](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0228-summary-ranges) |
 ## Hash Table
 |  |
 | ------- |
