@@ -82,6 +82,7 @@ This is about my skills
 | [0226-invert-binary-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -103,6 +104,7 @@ This is about my skills
 | [0226-invert-binary-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Iterator
 |  |
 | ------- |
@@ -162,6 +164,7 @@ This is about my skills
 | [0226-invert-binary-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
