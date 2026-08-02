@@ -71,6 +71,7 @@ This is about my skills
 | [0173-binary-search-tree-iterator](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
@@ -84,6 +85,7 @@ This is about my skills
 | [0173-binary-search-tree-iterator](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0232-implement-queue-using-stacks) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -220,6 +222,7 @@ This is about my skills
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0232-implement-queue-using-stacks) |
 ## Counting
 |  |
 | ------- |
