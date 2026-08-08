@@ -22,6 +22,7 @@ This is about my skills
 | [0221-maximal-square](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0229-majority-element-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0304-range-sum-query-2d-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ This is about my skills
 | [0211-design-add-and-search-words-data-structure](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0232-implement-queue-using-stacks) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0304-range-sum-query-2d-immutable) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -182,6 +184,7 @@ This is about my skills
 | ------- |
 | [0200-number-of-islands](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0221-maximal-square) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0304-range-sum-query-2d-immutable) |
 ## Linked List
 |  |
 | ------- |
@@ -218,6 +221,7 @@ This is about my skills
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Roshan-Thakur-be/Roshan-Thakur/tree/master/0304-range-sum-query-2d-immutable) |
 ## Trie
 |  |
 | ------- |
